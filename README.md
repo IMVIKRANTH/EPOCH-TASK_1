@@ -39,3 +39,17 @@ Potential Extensions:
 
 Further analysis can include clustering algorithms to identify natural groupings of pincodes.
 Additional layers of data, such as population density or infrastructure, can be added to the map for more comprehensive insights.
+
+### References
+* Pandas Documentation
+* GeoPandas Documentation
+* Matplotlib Documentation
+* Plotly Documentation
+* Telangana State Information
+* Methods used : Kmeans from scratch
+- https://youtu.be/5w5iUbTlpMQ?si=zdlr8iPEiqa3jkuk
+- https://www.geeksforgeeks.org/k-means-clustering-introduction/
+- https://youtu.be/GGL6U0k8WYA?si=dKub0jFw6yCN4W1I
+- https://domino.ai/blog/getting-started-with-k-means-clustering-in-python
+- https://medium.com/@draj0718/implementation-of-k-means-clustering-c90642e02bdb
+- https://youtu.be/GGL6U0k8WYA?si=dKub0jFw6yCN4W1I
